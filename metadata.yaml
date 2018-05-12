@@ -1,4 +1,8 @@
 _repo: Men-of-Mawm_50369
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50369-h/images/cover.jpg
 creator:
   author:
     agent_name: Riley, W. (William)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36179
     wikipedia: http://en.wikipedia.org/wiki/Willie_Riley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50369#Men-of-Mawm
 gutenberg_issued: '2015-11-02'
 gutenberg_type: Text
 identifiers:
